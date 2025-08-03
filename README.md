@@ -9,7 +9,7 @@
 - 🧠 **100% local LLM** responses with **Ollama**—runs entirely offline!
 - 🗣️ **Anime-style text-to-speech** using **VOICEVOX**
 - 🔐 **Privacy-first:** No API keys, no internet required, everything runs on your device
-- 🧋 **Customizable:** Mix and match models and voices (e.g., Llama 3 + Tsumugi)
+- 🧋 **Customizable:** Mix and match models and voices
 - 🎤 **Optional voice input:** Talk hands-free with your mic
 - 🖥️ **Cross-platform:** Works on Windows, macOS, and Linux
 
@@ -75,8 +75,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 - Inspired by anime fans, local-first tinkerers, and open-source communities!
 
 *Feel free to fork, star, and contribute!*
-
-Use this version to give your project a polished, user-friendly first impression.
 
 <div style="text-align: center">⁂</div>
 
