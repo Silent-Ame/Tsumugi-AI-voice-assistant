@@ -27,8 +27,8 @@
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/Tsumugi-AI-Voice-Assistant.git
-cd Tsumugi-AI-Voice-Assistant
+git clone https://github.com/Silent-Ame/Tsumugi-AI-voice-assistant
+cd Tsumugi-AI-voice-assistant
 ```
 
 2. **Install Python dependencies:**
